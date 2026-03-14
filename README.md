@@ -1,7 +1,11 @@
 # 👋 Olá, eu sou Gabriel!
 
-Atualmente trabalho na **Syngenta Digital**, onde suporto soluções tecnológicas aplicadas ao agronegócio. Além de estar no sétimo período do curso de sistemas de informação pela PUC-PR 
+Atualmente trabalho na Syngenta Digital, apoiando soluções tecnológicas aplicadas ao agronegócio.
+Sou apaixonado por tecnologia e desde pequeno sempre gostei de explorar computadores, desmontar, aprender e criar coisas novas.
 
+Hoje estou no 7º período de Sistemas de Informação pela PUC-PR, e continuo com a mesma curiosidade de quando comecei: estou sempre tentando aprender algo novo.
+
+Além disso, tenho uma grande paixão por games, que me inspiraram a entrar nesse mundo da tecnologia e me motivam a buscar desafios criativos e inovadores🎮.
 ---
 
 ## 🚀 Tecnologias e Ferramentas
