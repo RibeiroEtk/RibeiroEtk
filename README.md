@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia e desde pequeno sempre gostei de explorar computad
 
 Hoje estou no 7º período de Sistemas de Informação pela PUC-PR, e continuo com a mesma curiosidade de quando comecei: estou sempre tentando aprender algo novo.
 
-Além disso, tenho uma grande paixão por games, que me inspiraram a entrar nesse mundo da tecnologia e me motivam a buscar desafios criativos e inovadores🎮.
+Além disso, tenho uma grande paixão por games, que me inspiraram a entrar nesse mundo da tecnologia e me motivam a buscar desafios criativos e inovadores 🎮.
 ---
 
 ## 🚀 Tecnologias e Ferramentas
