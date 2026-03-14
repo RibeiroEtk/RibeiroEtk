@@ -1,11 +1,16 @@
 # 👋 Olá, eu sou Gabriel!
 
-Atualmente trabalho na Syngenta Digital, apoiando soluções tecnológicas aplicadas ao agronegócio.
-Sou apaixonado por tecnologia e desde pequeno sempre gostei de explorar computadores, desmontar, aprender e criar coisas novas.
 
-Hoje estou no 7º período de Sistemas de Informação pela PUC-PR, e continuo com a mesma curiosidade de quando comecei: estou sempre tentando aprender algo novo.
+📚 Formação  
+Atualmente estou no **7º período de Sistemas de Informação pela PUC-PR**, onde venho consolidando minha base em programação, arquitetura de sistemas e soluções digitais voltadas para diferentes áreas.  
+Também trabalho na **Syngenta Digital**, suportando sistemas de tecnologia voltados para o agronegócio.
 
-Além disso, tenho uma grande paixão por games, que me inspiraram a entrar nesse mundo da tecnologia e me motivam a buscar desafios criativos e inovadores 🎮.
+💡 Curiosidade e Aprendizado  
+Sou apaixonado por tecnologia desde pequeno 💻, sempre explorando computadores e buscando entender como tudo funciona.  
+
+🎮 Inspiração  
+Além disso, tenho uma grande paixão por **games 🎮**, que me inspiraram a entrar nesse mundo da tecnologia e me motivam a buscar desafios criativos e inovadores.
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -20,5 +25,5 @@ Além disso, tenho uma grande paixão por games, que me inspiraram a entrar ness
 ---
 
 ## 🌐 Contato
-- https://br.linkedin.com/in/gabriel-ribeiro-947286263
+- [LinkedIn](https://br.linkedin.com/in/gabriel-ribeiro-947286263)  
 - 📧 gabrielestefanski7@gmail.com
