@@ -1,9 +1,6 @@
 # 👋 Olá, eu sou Gabriel!
 
-Atualmente trabalho na **Syngenta Digital**, onde desenvolvo soluções tecnológicas aplicadas ao agronegócio.  
-Estou aprendendo sobre **scripts voltados para a área agrícola**, explorando como automações podem otimizar processos e gerar insights para o campo.  
-
-Além disso, gosto de trabalhar com **containers e Docker**, criando ambientes isolados e escaláveis para aplicações modernas.
+Atualmente trabalho na **Syngenta Digital**, onde suporto soluções tecnológicas aplicadas ao agronegócio. Além de estar no sétimo período do curso de sistemas de informação pela PUC-PR 
 
 ---
 
