@@ -2,7 +2,7 @@
 
 
 📚 Formação  
-Atualmente estou no **7º período de Sistemas de Informação pela PUC-PR**, onde venho consolidando minha base em programação, arquitetura de sistemas e soluções digitais voltadas para diferentes áreas.  
+Atualmente estou no **8º período de Sistemas de Informação pela PUC-PR**, onde venho consolidando minha base em programação, arquitetura de sistemas e soluções digitais voltadas para diferentes áreas.  
 Também trabalho na **Syngenta Digital**, suportando sistemas de tecnologia voltados para o agronegócio.
 
 💡 Curiosidade e Aprendizado  
